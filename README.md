@@ -4,7 +4,7 @@
 
 ---
 
-## 📋 **Project Overview**  
+##  **Project Overview**  
 
 The **AI-Powered Resume Analyzer** serves as a virtual HR assistant, providing:  
 - Detailed resume evaluation, including strengths and weaknesses.  
@@ -15,16 +15,16 @@ Whether you’re a job seeker or a recruiter, this tool simplifies resume assess
 
 ---
 
-## 🔑 **Features**  
+##  **Features**  
 
-### 1️⃣ **General Resume Analysis**  
+###  **General Resume Analysis**  
 - Summarizes the resume in one line.  
 - Highlights existing skill sets.  
 - Identifies skill gaps and suggests improvements.  
 - Recommends popular courses to enhance the resume.  
 - Provides a thorough evaluation of strengths and weaknesses.  
 
-### 2️⃣ **Resume Matching with Job Description**  
+###  **Resume Matching with Job Description**  
 - Analyzes resume compatibility with a specific job description.  
 - Provides a match score in percentage.  
 - Highlights missing skills and areas needing improvement.  
@@ -32,7 +32,7 @@ Whether you’re a job seeker or a recruiter, this tool simplifies resume assess
 
 ---
 
-## 🛠️ **Tech Stack**  
+##  **Tech Stack**  
 
 | **Component**       | **Technology**                  |  
 |----------------------|----------------------------------|  
@@ -45,7 +45,7 @@ Whether you’re a job seeker or a recruiter, this tool simplifies resume assess
 
 ---
 
-## 📊 **How It Works**
+##  **How It Works**
 
 1. **Resume Parsing**  
    - Extracts text from PDF files using `pdfplumber` or OCR as a fallback.
@@ -62,10 +62,3 @@ Whether you’re a job seeker or a recruiter, this tool simplifies resume assess
 
 ![image](https://github.com/user-attachments/assets/418e54ef-82d0-474b-a6bc-9a30d72f27f5)
 
-## 🙌 **Contributing**
-
-Welcome contributions to make this tool better!
-
-1. **Fork** the repository.  
-2. **Create a new branch** for your feature or bug fix.  
-3. **Submit a pull request** with detailed information about your changes.
